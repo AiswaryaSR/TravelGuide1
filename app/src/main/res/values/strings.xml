@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">Smart Guide Tour System</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello!</string>
+    <string name="slide_1_desc">Here represent as a Guide for travelling</string>
+
+    <string name="slide_2_title">Favorite Destination</string>
+    <string name="slide_2_desc">To know the favorite destination in each state and easiest way to understand the language</string>
+
+    <string name="slide_3_title">Fare</string>
+    <string name="slide_3_desc">Calculate travelling expence from one place to another in each place</string>
+
+    <string name="slide_4_title">Map</string>
+    <string name="slide_4_desc">Using Map easy to find places and shortest path in between two places and To know near by Schools,Hospitals,Restaurants.etc</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home_page1">HomePage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Smart Guide Tourist System</string>
+    <string name="nav_header_subtitle">travelguide@venturetech.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech1">say somthing</string>
+
+    <!--Kerala Details!-->
+
+    <string name="kochi">Kochi also known as Cochin is a major port city on the south-west coast of India bordering
+                         the Laccadive Sea.It is part of the district of Ernakulam in the state of Kerala and is
+                         often referred to as Ernakulam.</string>
+    <string name="varkala">Varkala is a coastal town and municipality in Thiruvananthapuram district situated in
+                          the Indian state of Kerala. It is the suburban town of Thiruvananthapuram (Trivandrum city).
+                          It is located 50 kilometres (approx. 32 miles) north-west of Thiruvananthapuram (Trivandrum)
+                          and 37 km south-west of Kollam. Varkala Maithanam.</string>
+    <string name="munnar">Sprawling tea plantations surround the serene hills of Munnar, which attract adventure travellers
+                         hungry for paragliding, treks to Anaimudi (South India\'s highest peak) and hikes originating at the
+                         confluence of three mountain streams.</string>
+    <string name="vagamon">Vagamon, also spelt Wagamon, is a hill station located in Meenachil taluk and Kanjirappally taluk
+                          of Kottayam district and Peerumade taluk of Idukki district of the state of Kerala, India. Contents.</string>
+    <string name="ponmudi">Ponmudi (the Golden Peak) is a hill station in the Thiruvananthapuram District of Kerala in India.
+                           It is located 55.2 km north-east of Trivandrum City at an altitude of 1100 m. Ponmudi (Varayadumotta)
+                           peak is a part of the Western Ghats mountain range that runs parallel to the Arabian Sea.</string>
+    <string name="vembanad">Vembanad is the second largest lagoon in India, and the lagoon lake in the state of Kerala. Spanning
+                           several districts in the state of Kerala, it is known as vembanadu Lake in Kottayam Punnamada Lake in
+                           Kuttanad, Kochi Lake in Kochi. Several groups of small islands including Vypin, Mulavukad, Vallarpadam,
+                           Willingdon</string>
+    <string name="ashtamudi">Ashtamudi Lake (Ashtamudi Kayal), in the Kollam District of the Indian state of Kerala, is the most
+                            visited backwater and lake in the state. It possesses a unique wetland ecosystem and a large palm-shaped
+                            water body, second only in size to the Vembanad estuary ecosystem of the state.</string>
+
+    <string name="nelliyam">Privately owned hotels and resorts are located at various points, as one goes up the hills of Nelliyampathy.
+                           The bio-farms located here are a major landmark as one proceeds up before reaching the topmost point at
+                           Palagapandi Estate. The estate has a quaint bungalow, built during the British rule in India, </string>
+
+
+    <!--goa details!-->
+    <string name="BagaBeach">The most popular beach of Goa, Baga is located close to Calangute beach, around 30 Km
+                             North of Panaji. Along with Calangute, Baga Beach is also popular for its nightlife with
+                             some very famous clubs right there such as Brittos, Titos and Mambo. </string>
+    <string name="CalanguteBeach">Calangute is a largest beach in north Goa and thus is known as Queens of beaches.
+                                 Situated 15 kms from the capital city of Panaji, this expansive stretch of water attracts
+                                 tourist from all around the globe owing to its festive and entrancing environ.</string>
+    <string name="Palolembeach">Palolem Beach, located in the South Goa is one of the most beautiful beaches of the Union
+                               Territory has to offer.Mostly unspoiled, the beach is often flocked with foreign tourists.</string>
+    <string name="Anjunabeach">Known for its unparalleled natural beauty, glowing soft white sand and swaying palms, Anjuna Beach is a hot spot
+                            for tourists both domestic and foreign. </string>
+    <string name="BasilicaofBomJesus">This historic church is located in Goa and is a UNESCO World Heritage Site. The Basilica of Bom Jesus
+                           houses the tomb and remains of St. Francis Xavier. Even after 400 years, the remains are in a good condition and
+                           are taken out once every decade.</string>
+    <string name="Cruise">The exotic beaches of Goa, pristine waters and breath taking view of sunset and sun rise can be best enjoyed through
+                          the luring river cruise. </string>
+    <string name="DudhsagarWaterfalls">Literally meaning milky water waterfalls because of the color of the falls, this is one of the highest
+                              waterfalls in India and cascades through four-tiers.</string>
+    <string name="FortAguada">The fort was built in 1612 to watch and guard against the Dutch and the Marathas. It was a reference point for the
+                              vessels coming from Europe. This old Portuguese fortification stands on the beach south of Candolim, at the shore
+                              of the Mandovi River.</string>
+
+
+    <!--mumbai details!-->
+    <string name="MarineDrive">Starting from the north of Nariman Point and ending at the famous Chowpatty beach, the Marine Drive is a 3km long
+                           arc shaped road along the sea coast of South Mumbai. The coast lines the Arabian sea and is the best place to watch
+                           the sunset in Mumbai.</string>
+    <string name="GatewayofIndia">One of the most distinguished monument in Mumbai, The Gateway of India was built in 1924. Now it has become
+                           a popular tourist hub in the city. Located at Apollo Bunder Waterfront, the monument overlooks the Arabian Sea in
+                           the most beautiful way.</string>
+    <string name="Juhubeach">The most popular beach in Mumbai, Juhu beach is located close to Andheri and was once quite a beautiful beach.
+                           However, with so many tourists coming in here, the place has become dirty and water is also not clean because
+                           of affluents from nearby factories and industries.</string>
+    <string name="ColabaCauseway">One of the most crowded and electrifying places to visit in Mumbai is the Colaba Causeway, famous
+                           for being a shopping paradise and having endless shops to choose from. </string>
+    <string name="HajiAliDargah">Situated at the backdrop of a beautiful view of the sea is the shrine of Haji Ali, a wealthy merchant
+                           turned into Muslim Sufi. People from all walks of life and religions come here to seek blessings.</string>
+    <string name="BandraWorliSeaLink">Spanning across the arc of Mumbai coastline, this sea link is a civil engineering wonder that
+                           reflects the modern infrastructure of the city of Mumbai.</string>
+    <string name="NationalGalleryofModernArt">Situated in Colaba, Southern Mumbai, the National Gallery of Modern Art was established
+                           in 1996, with an objective to promote modern trends in the Indian culture. Initially a concert venue, the
+                           structure was later converted into an art gallery in 1954. </string>
+    <string name="MumbaiZoo">Popularly known as Veermata Jijabai Udhyan, the zoo is the best way to spend family holidays amidst
+                           a vast variety of birds and animals.</string>
+
+
+    <!--kolkata details!-->
+    <string name="VictoriaMemorial">The Victoria Memorial is a large marble building, which is considered to be the pride of Kolkata. Built between 1906 and 1921,
+                                    it is dedicated to the memory of Queen Victoria. </string>
+    <string name="FortWilliam">Fort William is a fort built in Kolkata on the eastern banks of the River Hooghly, the major distributary of Ganges, during the
+                              early years of the Bengal Presidency in the British India. It was named after King William III of England and Ireland and King
+                              William II of Scotland.</string>
+    <string name="EdenGardens">Popular as the largest cricket stadium in the India and the second largest in the world,
+                              the Eden Gardens can seat 66,000 spectators.</string>
+    <string name="IndianMuseum">The Indian Museum is one of the oldest museums of the world boasting some of the most exquisite collections of ornaments,
+                              fossils, skeletons, antiques, armors, mummies and stunning Mughal paintings.</string>
+    <string name="Tajpur">One of the most secluded beaches of the country and one of the newest entrant in the tourism scene of West Bengal,
+                         Tajpur is slowly carving out a niche for itself as the stopover destination between the two
+                         major centers Digha and Shankarpur.</string>
+    <string name="NakhodaMosque">Placed in the Chitpur area in the Burrabazar business district, Nakhoda mosque is one of the busiest
+                         Mosques of Kolkata and dates back almost a century. </string>
+    <string name="AliporeZoo">The Alipore Zoo, also known as the Calcutta Zoo or the Zoological Garden of Alipore, is the oldest zoological
+                         park to have been established in India and is a major tourist attraction in Kolkata.</string>
+    <string name="KalighatTemple">Kalighat Temple, one of the 51 Shakti Sthals of India, is one of the most visited Kali temples in India. The spot
+                         is where the toes of Sati\'s right foot fell during Shiva\'s Rudra Taandav naach.</string>
+
+
+    <!--delhi details!-->
+    <string name="TheRedFort">Red fort an UNESCO Heritage monument.  It was built by mughal emperor shah jahan in the year of 1648,
+                                  who also built the Taj Mahal in Agra. </string>
+    <string name="HumayunTomb">Our next attraction is a heritage monument – Humayun\’s tomb and is among the must places to visit in
+                                   Delhi for tourists.  Humayun\’s wife, Hamida Banu, or Hazi Begum, was instrumental behind the construction
+                                   of this magnificent tomb.The tomb took 14 years to construct.</string>
+    <string name="QutabMinar">Our next attraction is an heritage monument. Qutub Minar is a towering 73 meter high tower built by
+                                  Qutub-ud-Din Aibak in 1193.The tower was built to celebrate Muslim dominance in Delhi after the defeat
+                                  of Delhi\’s last Hindu ruler.</string>
+    <string name="LotusTemple">"Our next attraction -The Baha’I House of Worship, more popularly known as the Lotus Temple, owing to
+                                  its shape and design, is one of Delhi\’s most recognized structures.The Lotus temple, constructed entirely
+                                  out of white marble from Penteli mountain in Greece, the very same from which many ancient monuments and
+                                  other Bahá\’í Houses of Worship are built."</string>
+    <string name="IndiaGate">India Gate is a must visit on every tourist Delhi Sightseeing itinerary. Edwin Lutyens was the architect
+                                of India Gate.Did you know it took ten years to be completed and it was culminated in 1931. It is said to
+                                be inspired by the famous Arc de Triomphe in Paris.</string>
+    <string name="RashtrapatiBhawan">Our next destination, is the Rashtrapati Bhavan or the President\’s House. The main palace building
+                                was formerly known as Viceroy’s House.  The famous rose garden better  known as the Mughal Gardens is located
+                                inside the Rashtrapati Bhawan.</string>
+    <string name="GurudwaraBanglaSahib">It is the most prominent Sikh gurdwara, or Sikh house of worship, known for its association with the
+                                eighth Sikh Guru, Guru Har Krishan.</string>
+    <string name="Akshardham">Akshardham Temple in Delhi is undoubtedly the best place to visit in Delhi for tourists, heralded by the Guinness
+                              World Record as the World\’s Largest Comprehensive Hindu Temple.</string>
+
+
+    <!--banglore details!-->
+    <string name="Jawaharlal_Nehru_Planetarium"> One of the main attractions here in Bangalore is the famous Jawaharlal Nehru Planetarium.
+                             It planetarium has a Science Park and the Science Center. The most well known show in the Jawaharlal Nehru Planetarium
+                             that pulls lakhs of people round the year is the Sky Theater. </string>
+    <string name="Bannerghatta_National_Park">Bannerghetta national Park is another attraction which is a must visit for you. If you are an animal
+                             lover than this park will definitely make your vacation a lot more amazing. Holding some of the country\’s first butterfly
+                             park, this national park has a huge variety of fauna, making it one of the most enjoyable tourist attractions in the city. </string>
+    <string name="Nandi_Hills">As the name goes this is one of the most popular attractions in Bangalore which is known for offering the spectacular sunrise from the top.
+                              Nandi Hills, otherwise called Nandidurg or Nandi Betta is an old slope fortification arranged in a region called Chikkabalapur in Karnataka.
+                              Arranged close to the town of Nandi, the antiquated conviction is that they are the cause of the Arkavathy River. </string>
+    <string name="Cubbon_Park">Having been set around Lord Cubbon, it is a perfect place for nature significant others and those looking for a quiet climate.
+                               It highlights a bandstand that hosts shows. The Bangalore Aquarium is likewise arranged in this park, and is a must visit for
+                               you in Bengaluru, being the second biggest aquarium in India. </string>
+    <string name="Vidhana_Soudha">Vidhana Soudha is a standout building among the very famous Buildings in Bangalore. The 46-meter tall building includes 300
+                               rooms, each of which mirrors the noteworthy Dravidian style of engineering. Housing 22 departments  of the Government of Karnataka,
+                               Vidhan Soudha additionally happens to be one of the one of the biggest authoritative structures and is a must visit spot in Bangalore. </string>
+    <string name="Bangalore_Palace">Encased by beautiful garden, Bangalore Palace draws in sightseers in great numbers but also as a destination for important events and cultural
+                               programs. The wooden structure of the palace with impressive carvings both inside and outside delineating distinctive building styles, is reminiscent
+                               of the royal culture during that time.</string>
+    <string name="Brigade_Road">Brigade road is the most happening part of the city. If you are new to Bangalore then this place is a must visit for you. From pubs to the latest branded
+                               shop you will find everything at this place. Brigade Road is another famous shopping centre, particularly with the youths. </string>
+    <string name="BigBull_Temple">The Bull Temple is one of the oldest temples in Bangalore built in 1537, amid the time of Kempe Gowda, who is known as the founder of Bangalore. The tmepls
+                                is situated in Basavanagudi region, whose name came as a result of the sanctuary itself. </string>
+
+    <string name="about"> Travel guide is an android application developed in 2018 to help travellers in exploring
+                         a new place without assistance. This application will act as your guide throughout your
+                         journey. It has a map to show you path when you are lost. It has a translator to get you
+                         out if language dilemma. It has travel expenditure details to track your budget.
+                         It ll also find you the best vacation spots in your dream city.</string>
+    <string name="about1"> Travel guide is an android application to help travellers in exploring
+                         a new place without assistance. This application will act as your guide throughout your
+                         journey. It has a map to show you path when you are lost. It has a translator to get you
+                         out if language dilemma. It has travel expenditure details to track your budget.
+                         It ll also find you the best vacation spots in your dream city.</string>
+    <string name="mapview1">
+                    A  map is a visual representation of an entire area or a part of an areaa,typically represent on a flat surface.
+                    Here included the shortest path in between teo places and also to know nearest  Schools,Restaurants and Hospitals.
+    </string>
+    <string name="news">
+                            The Travel Guide app is offering comprehensive and up-to-date information about a particular destination to the tourists.
+                            This information would includes popular modes of local transport,events and any other celebrations occurring around the places etc.
+        
+    </string>
+    <string name="weather">
+                        The Travel Guide app provides detailed local forecast and temperature ,rain or snow,windy,clouds,humidity,waves etc.
+                        So it easy to receive the weather conditions in the current location.
+        
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

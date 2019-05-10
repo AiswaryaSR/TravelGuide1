@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidDomInspection -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_lang"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Linguistic Translator" />
+        <item
+            android:id="@+id/nav_cost"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Transportation and cost" />
+        <item
+            android:id="@+id/nav_dest"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Favourite Destination" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Map" />
+    </group>
+    <item android:title="Current Updates">
+        <menu>
+            <item
+                android:id="@+id/news"
+                android:title="News"
+                android:icon="@drawable/news_data"
+                />
+            <item
+                android:id="@+id/weather"
+                android:title="Weather"
+                android:icon="@drawable/news"
+                />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="AboutUs" />
+            <item
+                android:id="@+id/feed"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>
