@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fare.Frag_Fare_kerala"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <!--<AutoCompleteTextView-->
+                <!--android:id="@+id/fromteext"-->
+                <!--android:layout_width="250dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:paddingTop="20dp"-->
+                <!--android:backgroundTint="@android:color/black"-->
+                <!--android:hint="From :"/>-->
+            <!--<AutoCompleteTextView-->
+                <!--android:id="@+id/totext"-->
+                <!--android:layout_width="250dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:backgroundTint="@android:color/black"-->
+                <!--android:hint="To :"/>-->
+            <!--<Spinner-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/f"></Spinner>-->
+            <!--<Spinner-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/t"></Spinner>-->
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtfrom"
+                android:hint="From"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtto"
+                android:hint="To"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <Button
+                android:id="@+id/btn_calculate"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="Calculate"
+                android:textAllCaps="false"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Auto Fare :"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/autofare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="text1"
+                android:textStyle="bold"
+                android:paddingTop="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Car Fare :"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/carfare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="text1"
+                android:textStyle="bold"
+                android:paddingTop="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bus Fare :"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:paddingTop="20dp"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/busfare"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="text1"
+                android:textStyle="bold"
+                android:paddingTop="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Distance :"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:paddingTop="10dp"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/dist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="text1"
+                android:textStyle="bold"
+                android:paddingTop="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Time :"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:paddingTop="20dp"
+                android:textSize="20dp" />
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="text1"
+                android:textStyle="bold"
+                android:paddingTop="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

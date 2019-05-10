@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Subactivity.Ocractivity"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Take a Photo"
+        android:id="@+id/take_a_photo"
+        tools:context=".Subactivity.Ocractivityctivity"
+        android:padding="15dp"
+        android:background="@android:color/holo_green_dark"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/choose_from_gallery" />
+    <TextView
+        android:text=" "
+        android:layout_width="320dp"
+        android:layout_height="120dp"
+        android:id="@+id/detected_text"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_below="@+id/take_a_photo"
+        android:layout_margin="25dp"
+        android:background="#EEEEEE"
+        android:scrollbars="vertical" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="15dp"
+        android:gravity="center"
+        android:id="@+id/spinner1">
+
+    </Spinner>
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="translate"
+        android:padding="15dp"
+        android:background="@android:color/holo_green_dark"
+        android:id="@+id/Translatebutton"
+        android:layout_gravity="center_horizontal"
+
+        android:clickable="true"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="120dp"
+        android:id="@+id/TranslateTextView"
+        android:textSize="18dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:background="#EEEEEE" />
+
+
+</LinearLayout>

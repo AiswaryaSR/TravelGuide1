@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsDemo0"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!--android:background="@drawable/signupblur"-->
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logoguide"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/weather"
+            android:padding="10dp"
+            android:gravity=""
+            android:lineSpacingExtra="4dp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:id="@+id/weatherr"
+            android:textSize="17dp"
+            tools:ignore="InvalidId" />
+        <Button
+            android:id="@+id/btn_next0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@drawable/btn_new"
+            android:text="next" />
+    </LinearLayout>
+</LinearLayout>

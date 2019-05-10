@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StatePage"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/blue">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/kerala"
+        android:background="@drawable/buttonshape"
+        android:text="KERALA"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/goa"
+        android:background="@drawable/buttonshape"
+        android:text="GOA"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mumbai"
+        android:background="@drawable/buttonshape"
+        android:text="MUMBAI"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/kolkatha"
+        android:background="@drawable/buttonshape"
+        android:text="KOLKATHA"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/delhi"
+        android:background="@drawable/buttonshape"
+        android:text="DELHI"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/banglore"
+        android:background="@drawable/buttonshape"
+        android:text="BANGLORE"/>
+
+
+    <!--<ImageButton-->
+        <!--android:layout_marginTop="15dp"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/admin"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:src="@drawable/user"/>-->
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/admin"-->
+        <!--android:text="Admin"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"/>-->
+
+
+</LinearLayout>
