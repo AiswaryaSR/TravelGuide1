@@ -17,9 +17,6 @@ public class DataParser {
     public List<HashMap<String, String>> parse(String jsonData) {
         JSONArray jsonArray = null;
         JSONObject jsonObject;
-
-
-
         try {
             Log.d("Places", "parse");
             jsonObject = new JSONObject((String) jsonData);
