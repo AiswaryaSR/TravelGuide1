@@ -3,6 +3,7 @@ package com.example.nyesteventure3.travelguide;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+
 public class Main2Activity extends AppCompatActivity {
 
     @Override
