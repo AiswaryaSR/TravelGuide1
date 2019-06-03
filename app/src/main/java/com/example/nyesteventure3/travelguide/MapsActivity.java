@@ -70,7 +70,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public static final String mypreference="myprfr";
 
 
-    ArrayList<LatLng> MarkerPoints;
+    
+ArrayList<LatLng> MarkerPoints;
     static LatLng origin=null;
     static LatLng dest=null;
 
