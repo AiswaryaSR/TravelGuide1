@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 import com.example.nyesteventure3.travelguide.R;
 
+
 public class LanguageTranslator extends AppCompatActivity {
 
     @Override
